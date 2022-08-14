@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 (1) Biografia
     Mi nombre es Rafael Artaega, nací en Tarapoto el 7 de diciembre de 1979.
 (2) Estudios
@@ -7,3 +8,12 @@
     Caja Rural San Martin
     RENIEC
     Coopac San Martin de Porres
+=======
+Esta es la historia de Rafael Arteaga
+
+Rafael Arteaga tiene 42 años y nació en Perú
+
+Hoy hablaremos de su historia.  
+
+Mañana nos enfocaremos en su vida laboral.
+>>>>>>> 4d110b6dd1419728e74f251c73a7c8eb9ab214e4
