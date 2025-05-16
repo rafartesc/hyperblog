@@ -4,3 +4,5 @@ Nombres y apellidos     :   Jose Rafael Arteaga Escudero
 Fecha de nacimiento     :   7 de diciembre de 1979
 Lugar de nacimiento     :   Tarapoto
 DNI                     :   40375121
+Hobie                   :   Deporte y caminata
+Hijos                   :   2
