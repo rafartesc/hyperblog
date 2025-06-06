@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Datos con etiquetas
 
 Nombres y apellidos     :   Jose Rafael Arteaga Escudero
@@ -6,3 +7,24 @@ Lugar de nacimiento     :   Tarapoto
 DNI                     :   40375121
 Hobie                   :   Deporte y caminata
 Hijos                   :   2
+=======
+Esta es la historia de Rafael Arteaga
+
+Rafael Arteaga tiene 42 años y nació en Perú
+
+Hoy hablaremos de su historia.  
+
+Mañana nos enfocaremos en su vida laboral.
+
+Estudiante de los cursos de Platzi.
+
+Seguiremos practicando hasta sacar provecho de sus maximas funciones.
+
+Pasatiempos el futbol, tecnologia. Tambien un poco de relax.
+
+Compartir momentos gratos con la familia y los amigos.
+
+Preparando el viaje para Picota: trabajos de red y ticketero.
+
+Y proxiamente otra agencia.
+>>>>>>> e6723642088680a547ef2819967a5c23b9c68b44
