@@ -2,38 +2,20 @@ body
 {
     color: #333;
     text-align: center;
-<<<<<<< HEAD
     font-family: 'Arial';
-=======
-    font-family: Arial;
->>>>>>> e6723642088680a547ef2819967a5c23b9c68b44
     font-size: 16px;
     margin: 0;
     padding: 0;
 }
-<<<<<<< HEAD
 #cabecera{
     background: #33A;
     box-shadow: 0px 2px 30px 0px rgba(0, 0, 0, 0.5) ;
-=======
-#cabecera
-{
-    background:#33a;
-    box-shadow:0px 2px 20px 0px rgba(0, 0, 0, 0.5) ;
->>>>>>> e6723642088680a547ef2819967a5c23b9c68b44
     color: white;
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
-<<<<<<< HEAD
 }
 #cabecera #tagline{
-=======
-
-}
-#cabecera #tagline
-{
->>>>>>> e6723642088680a547ef2819967a5c23b9c68b44
     padding: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
@@ -43,11 +25,7 @@ body
     width: 70%;
     padding: 1em;
     text-align: left;
-<<<<<<< HEAD
     border: 1px solid #ddd;
-=======
-    border: 1px solid #DDD;
->>>>>>> e6723642088680a547ef2819967a5c23b9c68b44
     margin: 0 auto;
 }
 #container h1
